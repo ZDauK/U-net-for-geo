@@ -9,5 +9,8 @@ the real permeability field is on the left and the reconstructed permeability fi
 
 # Paper recommendation
 [1] Tang M, Liu Y, Durlofsky L J. A deep-learning-based surrogate model for data assimilation in dynamic subsurface flow problems[J]. Journal of Computational Physics, 2020, 413: 109456.
+
 [2] Taccari M L, Nuttall J, Chen X, et al. Attention U-Net as a surrogate model for groundwater prediction[J]. Advances in Water Resources, 2022, 163: 104169.
+
 [3] Siddique N, Paheding S, Elkin C P, et al. U-net and its variants for medical image segmentation: A review of theory and applications[J]. Ieee Access, 2021, 9: 82031-82057.
+
